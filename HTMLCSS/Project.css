@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    background-color:rgb(30, 30, 73);
+    height: 55vh;
+}
+h1{
+    display: inline;
+    margin-left: 10vw;
+    margin-top: 10vw;
+    color: white;           
+}
+ul {
+    text-align: right;
+    margin-right: 10vw;
+    margin-top: -1.3vw;
+}
+li{
+    display: inline;
+}
+ul li{
+    padding: 1vw;
+}
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: center ;
+    margin-top: 4.7%;
+    gap: 2vw;
+}
+h2 {
+    font-size: 3vw;
+    color: white;
+}
+.container p {
+    font-size: 1.35vw;
+    color: rgba(255, 255, 255, 0.801);  
+}
+.container button {
+    background-color: blue;
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+    outline: 0;
+    width: 8vw;
+    padding: 0.5vw;
+    border: 1px solid blue;
+    margin-top: 0.5vw;
+}
+.container button:hover {
+    cursor: pointer;
+    border: inset;
+}
+h3 {
+    text-align: center;
+    font-size: 3vw;
+    margin-top: 2vw;
+}
+.box1 {
+    display: flex;
+    flex-direction: column;
+    width: 174px;
+    height: 139px;
+    margin-left: 20vw;
+    margin-top: 2vw;
+}
+.box1 img { 
+    margin-top: 1vw;
+}
+.box1 p {
+    font-size: 1vw;
+    color: black;
+    text-align: center;
+    margin-top: 0.5vw;
+}
+.box2 {
+    display: flex;
+    flex-direction: column;
+    width: 174px;
+    height: 139px;
+    margin-top: 2vw;
+}
+.box2 img { 
+    margin-top: 1vw;
+}
+.box2 p {
+    font-size: 1vw;
+    color: black;
+    text-align: center;
+    margin-top: 0.5vw;
+}
+.box3 {
+    display: flex;
+    flex-direction: column;
+    width: 174px;
+    height: 139px;
+    margin-top: 2vw;
+}
+.box3 img { 
+    margin-top: 1vw;
+}
+.box3 p {
+    font-size: 1vw;
+    color: black;
+    text-align: center;
+    margin-top: 0.5vw;
+}
+.box4 {
+    display: flex;
+    flex-direction: column;
+    width: 174px;
+    height: 139px;
+    margin-top: 2vw;
+}
+.box4 img { 
+    margin-top: 1vw;
+}
+.box4 p {
+    font-size: 1vw;
+    color: black;
+    text-align: center;
+    margin-top: 0.5vw;
+}
